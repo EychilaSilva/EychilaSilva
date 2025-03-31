@@ -1,8 +1,7 @@
 ## 👩🏻‍💻 Eychila Silva 
-**`Desenvolvedora`**
-
-
-
+<br>
+- Sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU pelo Embarque Digital.
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -38,6 +37,18 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
+<img 
+    align="center" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/eychila-meirelle/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 <br/>
 <br/>
