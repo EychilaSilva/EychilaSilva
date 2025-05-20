@@ -37,7 +37,7 @@
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://res.cloudinary.com/appmasters-io/image/upload/v1634211184/1wwdyw5de8avrdkgtz5n_d3dcbffa3d.png" 
+    src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" 
 />
 
 <img 
@@ -46,7 +46,7 @@
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" 
+    src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" 
 />
 
 <img 
