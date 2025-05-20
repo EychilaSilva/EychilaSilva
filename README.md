@@ -41,6 +41,15 @@
 />
 
 <img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.flaticon.com/free-icon/java_5968282?term=java&page=1&position=2&origin=tag&related_id=5968282" 
+/>
+
+<img 
     align="center" 
     alt="Figma" 
     title="Figma"
