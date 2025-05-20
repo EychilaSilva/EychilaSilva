@@ -37,7 +37,7 @@
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" 
+    src="https://res.cloudinary.com/appmasters-io/image/upload/v1634211184/1wwdyw5de8avrdkgtz5n_d3dcbffa3d.png" 
 />
 
 <img 
@@ -46,7 +46,7 @@
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.flaticon.com/free-icon/java_5968282?term=java&page=1&position=2&origin=tag&related_id=5968282" 
+    src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" 
 />
 
 <img 
